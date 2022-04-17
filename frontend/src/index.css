@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+table {
+  width: auto;
+  height: auto;
+}
+th {
+  text-align: left;
+}
+button {
+  border: none;
+  padding: 7px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+.pagination {
+  border-collapse: revert;
+  width: 50px
+}
