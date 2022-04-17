@@ -70,8 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-#To launch a django server:
-cd testtask/backend/
-pipenv shell
-cd api
-python manage.py runserver
+# To launch a django server:
+`cd testtask/backend/ ->
+pipenv shell -> 
+cd api -> 
+python manage.py runserver`
